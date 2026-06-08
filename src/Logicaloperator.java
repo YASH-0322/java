@@ -28,7 +28,10 @@ public class Logicaloperator {
         int e=14,f=78;
         System.out.println(e++<=14  && ++f>78);//is pr first condition  true h isliye  secound bhi read krega
 
-        System.out.println(e+ "" +f);
+        System.out.println(e+ "\n" +f);
+
+
+
 
     }
 }
